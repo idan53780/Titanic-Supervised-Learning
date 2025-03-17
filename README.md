@@ -25,10 +25,10 @@ The goal of this project is to predict whether a passenger survived the Titanic 
 ## 📁 Files
 
 - `Titanic_Supervised_learning_Flow.ipynb`: The complete notebook with code and outputs.
-- Data set Train and Test just for Example of the execution
+- Train and Test datasets, just for Example of the execution
 
 ## ⚙️ How to Run
 
 1. Clone this repo:
-   ```bash
+   
    git clone https://github.com/idan53780/Titanic-Supervised-Learning.git
